@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi, I'm Muhammed Shahad 👋  
 
-<!--
-**Shahad-666/Shahad-666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Fresher Web Developer** | PHP • MySQL • HTML • CSS • JavaScript  
+📍 Calicut, Kerala  
+📧 `muhammedshahadkk1@gmail.com`  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🎓 B.Sc. Physics (2020–2023), Muhammed Abdurahiman Memorial Orphanage College  
+- 💡 Passionate about building **practical web applications** and solving real problems  
+- 🛠️ Recently built an **Online Feedback System** with admin panel, charts, and secure auth  
+- 📚 Always learning better ways to write clean, simple and secure code  
+
+---
+
+### 🧰 Tech Stack
+
+**Languages**
+- PHP, JavaScript, C, Java, Python, Go
+
+**Web**
+- HTML, CSS, Bootstrap
+
+**Database**
+- MySQL
+
+**Tools & Others**
+- Git & GitHub  
+- Debugging & Problem Solving  
+- Responsive Design Basics  
+- InfinityFree / cPanel
+
+---
+
+### 🔍 Featured Project
+
+#### 📝 Online Feedback System (Web App)
+
+A complete web-based system for managing student feedback on teachers/courses.
+
+- 👥 Student & Admin modules  
+- 🔐 Secure login and session handling  
+- ❓ Dynamic question management  
+- 📊 Feedback reporting & analytics  
+- 🎨 Responsive UI using Bootstrap  
+
+👉 **Repo:** *(will be added when you push the project)*  
+👉 **Tech:** PHP, MySQL, HTML, CSS, Bootstrap, JavaScript  
+
+---
+
+### 🎯 What I’m Working On
+
+- Improving my **PHP & MySQL** skills  
+- Building more small projects to strengthen **frontend + backend**  
+- Learning **Git & GitHub workflow**  
+- Preparing for **Web Developer / PHP Developer roles**  
+
+---
+
+### 📫 How to Reach Me
+
+- 📧 Email: `muhammedshahadkk1@gmail.com`  
+- 📍 Calicut, Kerala, India  
+
+If you’re hiring a **fresher web developer**, I’d love to connect 🙂
